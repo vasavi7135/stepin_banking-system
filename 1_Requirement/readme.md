@@ -21,7 +21,7 @@ We need to be able to generate an account number
 - Anecessary condition.
 ## TYPES:
 1 FUNCTIONAL REQUIREMENTS
-2 N0ON- FUNCTIONAL REQUIREMENTS
+2 NON- FUNCTIONAL REQUIREMENTS
 ## FUNCTIONAL REQUIREMENTS:
 These requirements are observable tasks or processes that must be performed by the system under development. 
 ## NON-FUNCTIONAL REQUIREMENTS:
