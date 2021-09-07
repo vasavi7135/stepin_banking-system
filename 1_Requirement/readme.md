@@ -27,14 +27,14 @@ These requirements are observable tasks or processes that must be performed by t
 ## NON-FUNCTIONAL REQUIREMENTS:
 These requirements are qualities or standards that the system under development must have or comply with, but which are not tasks that will be
 automated by the system.
-## HARDWARE REQUIREMENT SPECIFICATION:
+## HARDWARE REQUIREMENT SPECIFICATIONS:
 Processor : Intel(R) Core(TM)i5
 (RAM)  :8GB
 System type: 64-bit operating system
 Keyboard : 108 Keys 
 Mouse : Optical Mouse 
 Hard Disk : 2 TB
-## SOFTWARE REQUIREMENTS SPECIFICATION:
+## SOFTWARE REQUIREMENT SPECIFICATIONS:
 Front end/language: C 
 Backend /language:C
 Operating system: windows 10
