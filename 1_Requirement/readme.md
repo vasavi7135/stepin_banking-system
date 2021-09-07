@@ -34,7 +34,7 @@ System type: 64-bit operating system
 Keyboard : 108 Keys 
 Mouse : Optical Mouse 
 Hard Disk : 2 TB
-## SOFTWARE REQUIREMENTS SPECIFICATION:
+## SOFTWARE REQUIREMENT SPECIFICATION:
 Front end/language: C 
 Backend /language:C
 Operating system: windows 10
