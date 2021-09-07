@@ -21,20 +21,20 @@ We need to be able to generate an account number
 - Anecessary condition.
 ## TYPES:
 1 FUNCTIONAL REQUIREMENTS
-2 NON- FUNCTIONAL REQUIREMENTS
+2 N0ON- FUNCTIONAL REQUIREMENTS
 ## FUNCTIONAL REQUIREMENTS:
 These requirements are observable tasks or processes that must be performed by the system under development. 
 ## NON-FUNCTIONAL REQUIREMENTS:
 These requirements are qualities or standards that the system under development must have or comply with, but which are not tasks that will be
 automated by the system.
-## HARDWARE REQUIREMENT SPECIFICATIONS:
+## HARDWARE REQUIREMENT SPECIFICATION:
 Processor : Intel(R) Core(TM)i5
 (RAM)  :8GB
 System type: 64-bit operating system
 Keyboard : 108 Keys 
 Mouse : Optical Mouse 
 Hard Disk : 2 TB
-## SOFTWARE REQUIREMENT SPECIFICATIONS:
+## SOFTWARE REQUIREMENTS SPECIFICATION:
 Front end/language: C 
 Backend /language:C
 Operating system: windows 10
