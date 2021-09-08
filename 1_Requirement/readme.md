@@ -38,6 +38,9 @@ Hard Disk : 2 TB
 Front end/language: C 
 Backend /language:C
 Operating system: windows 10
+![image](https://user-images.githubusercontent.com/89580410/132488143-9cb50dc6-2636-40f8-b239-a2d244ad4fb7.png)
+
+
  
  
  
